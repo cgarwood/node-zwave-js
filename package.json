@@ -45,7 +45,7 @@
     "@fimbul/mithotyn": "^0.21.0",
     "@fimbul/wotan": "^0.22.0",
     "@types/fs-extra": "^9.0.1",
-    "@types/gulp": "^4.0.7",
+    "@types/gulp": "^4.0.8",
     "@types/gulp-sourcemaps": "0.0.32",
     "@types/jest": "^26.0.14",
     "@types/json5": "0.0.30",
