@@ -10157,12 +10157,17 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-supports-color@^7.0.0, supports-color@^7.1.0, supports-color@^7.2.0:
+supports-color@^7.0.0, supports-color@^7.1.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
   integrity sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==
   dependencies:
     has-flag "^4.0.0"
+
+supports-color@^9.2.3:
+  version "9.2.3"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-9.2.3.tgz#a6e2c97fc20c80abecd69e50aebe4783ff77d45a"
+  integrity sha512-aszYUX/DVK/ed5rFLb/dDinVJrQjG/vmU433wtqVSD800rYsJNWxh2R3USV90aLSU+UsyQkbNeffVLzc6B6foA==
 
 supports-hyperlinks@^2.0.0:
   version "2.1.0"
